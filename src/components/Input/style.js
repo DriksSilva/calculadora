@@ -15,10 +15,11 @@ export const InputContainer = styled.div`
   input{
     width: 100%;
     height: 8rem;
+    padding: 1rem;
     background-color: #000000;
     color: #FFFF;
     font-family: "Montserrat", sans-serif;
-    font-size: 2.5rem;
+    font-size: 3rem;
     border: none;
     border-radius: 2rem 2rem 0 0;
     outline: none;
