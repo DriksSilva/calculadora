@@ -8,6 +8,7 @@ const Button = ({label, onClick}) => {
       </ButtonContainer>
     </div>
   );
-}
+};
+
 
 export default Button;

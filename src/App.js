@@ -47,12 +47,12 @@ const App = () => {
         <Button label={"1"} onClick={() => handleAddNumber ('1')}/>
         <Button label={"2"} onClick={() => handleAddNumber ('2')}/>
         <Button label={"3"} onClick={() => handleAddNumber ('3')}/>
-        <Button label={"+"} onClick={() => handleAddNumber ('')}/>
+        <Button label={"+"} onClick={() => handleAddNumber ('')} backgroundColor='#FF9500'/>
       </Row>
       <Row>
         <Button label={"0"} onClick={() => handleAddNumber ('')}/>
         <Button label={","} onClick={() => handleAddNumber ('')}/>
-        <Button label={"="} onClick={() => handleAddNumber ('')} className="operators"/>       
+        <Button label={"="} onClick={() => handleAddNumber ('')} background-color='#FF9500' width="10rem"/>       
       </Row>
       
       </Content>
