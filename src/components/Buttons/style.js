@@ -18,13 +18,8 @@ export const ButtonContainer = styled.button`
   justify-content: center;
   
   &:hover {
-    opacity: .5; 
+    opacity: .7; 
   } 
-    &.orangeButton {
-      background-color: "#FF9500";
-    }
 
 `;
-
-
 

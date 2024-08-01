@@ -19,7 +19,7 @@ export const InputContainer = styled.div`
     background-color: #000000;
     color: #FFFF;
     font-family: "Montserrat", sans-serif;
-    font-size: 3rem;
+    font-size: 2.7rem;
     border: none;
     border-radius: 2rem 2rem 0 0;
     outline: none;
