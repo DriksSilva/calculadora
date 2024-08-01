@@ -23,5 +23,6 @@ export const InputContainer = styled.div`
     border: none;
     border-radius: 2rem 2rem 0 0;
     outline: none;
+    text-align: right;
   }
 `
