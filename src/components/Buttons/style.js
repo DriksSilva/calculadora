@@ -12,7 +12,7 @@ export const ButtonContainer = styled.button`
   background-color: ${props => props.backgroundColor || "#505050"};
   color: ${props => props.color || "#FFFFFF"};
   font-family: "Montserrat", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,6 +20,5 @@ export const ButtonContainer = styled.button`
   &:hover {
     opacity: .7; 
   } 
-
-`;
+`
 
